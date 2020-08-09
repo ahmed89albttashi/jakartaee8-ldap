@@ -9,7 +9,7 @@ Import LDIF file `ldap_ldif/schema.ldif`
 * LDAP Admin Password: secret , it's avilable in ldif file as default if you are not change it.
 
 ## Available LDAP User|Password to test : 
-* ahmed  | 221 -> with Admin role
-* salim | 221 -> without Admin
+* ahmed  | 221 -> with Admin role -> can access  `/mvc/admin_area`
+* salim | 221 -> without Admin -> cannot access `/mvc/admin_area`
 
 ## Please Fork/Share your updates
