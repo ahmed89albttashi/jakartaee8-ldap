@@ -5,8 +5,8 @@ Jakartaee 8 simple Annotation LDAP Form-based login
 Import LDIF file `ldap_ldif/schema.ldif`
 
 ## Project configuration 
-LDAP PORT: 10389
-LDAP Admin Password: secret , it's avilable in ldif file as default if you are not change it.
+* LDAP PORT: 10389
+* LDAP Admin Password: secret , it's avilable in ldif file as default if you are not change it.
 
 ## Available LDAP User|Password to test : 
 * ahmed  | 221 -> with Admin role
